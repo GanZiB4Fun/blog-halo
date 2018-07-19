@@ -1,0 +1,4 @@
+[com.ganzib.web.controller.admin]
+BackupController.backupResources = 0 0 1 * * ?
+BackupController.backupDatabase = 0 0 1 * * ?
+BackupController.backupPosts = 0 0 1 * * ?
