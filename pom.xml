@@ -5,7 +5,7 @@
 
     <groupId>com.ganzib</groupId>
     <artifactId>blog-halo</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>latest</version>
     <packaging>jar</packaging>
 
     <name>blog-halo</name>
